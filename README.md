@@ -35,22 +35,33 @@ Note: Make sure to have an internet connection as the script relies on the Googl
 
 1. Translate text:
 Enter the text to translate: Hello
+
 Enter the target language: es
+
 Output:
+
 Source Language: en
+
 Translated Text: Hola
 
 2. Detect language:
 Enter the text to detect language: Bonjour
+
 Output:
+
 Detected Language: fr
+
 Confidence: 1.0
 
 3. Translate a file:
 Enter the file path to translate: /path/to/file.txt
+
 Enter the target language: de
+
 Output:
+
 Source Language: en
+
 Translated Text: (Contents of the file in German)
 
 ## Contributions
