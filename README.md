@@ -1,4 +1,4 @@
-# Bharat-Intern-Language-Translator
+# Language-Translator
 
 This is a Python script that utilizes the `googletrans` library to translate text or files to different languages using Google Translate. It provides the following functionality:
 
